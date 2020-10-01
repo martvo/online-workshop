@@ -1,6 +1,6 @@
 # Online Workshop
 
-Open `https://github.com/martvo/online-workshop` in google colab
+Open `https://github.com/martvo/online-workshop` in [google colab](https://colab.research.google.com/) 
 
 **OR**
 
